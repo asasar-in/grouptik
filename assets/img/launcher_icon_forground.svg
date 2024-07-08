@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="launcher_icon_forground.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   inkscape:export-filename="launcher_icon_forground.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="0.72515427"
+     inkscape:cx="-8.9636099"
+     inkscape:cy="386.12473"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       markerWidth="120"
+       markerHeight="120"
+       refX="38.612"
+       refY="38.612473"
+       orient="auto"
+       id="marker3973"
+       viewBox="0 0 77.224945 77.224945"
+       preserveAspectRatio="xMidYMid">
+      <circle
+         style="fill:#000000"
+         id="path3682"
+         cx="38.612473"
+         cy="38.612473"
+         r="38.612473" />
+    </marker>
+    <marker
+       markerWidth="120"
+       markerHeight="120"
+       refX="38.612"
+       refY="38.612473"
+       orient="auto"
+       viewBox="0 0 77.224945 77.224945"
+       preserveAspectRatio="xMidYMid"
+       id="marker39735996"
+       inkscape:stockid="marker39735996">
+      <circle
+         style="fill:#ffffff;stroke:#000000"
+         id="circle5687"
+         cx="38.612473"
+         cy="38.612473"
+         r="38.612473" />
+    </marker>
+    <marker
+       markerWidth="120"
+       markerHeight="120"
+       refX="38.612"
+       refY="38.612473"
+       orient="auto"
+       viewBox="0 0 77.224945 77.224945"
+       preserveAspectRatio="xMidYMid"
+       id="marker39733900"
+       inkscape:stockid="marker39733900">
+      <circle
+         style="fill:#ffffff;stroke:#000000"
+         id="circle5690"
+         cx="38.612473"
+         cy="38.612473"
+         r="38.612473" />
+    </marker>
+    <marker
+       markerWidth="120"
+       markerHeight="120"
+       refX="38.612"
+       refY="38.612473"
+       orient="auto"
+       viewBox="0 0 77.224945 77.224945"
+       preserveAspectRatio="xMidYMid"
+       inkscape:stockid="marker397359968670"
+       id="marker397359968670">
+      <circle
+         style="fill:#0000ff;stroke:#000000"
+         id="circle6538"
+         cx="38.612473"
+         cy="38.612473"
+         r="38.612473" />
+    </marker>
+    <marker
+       markerWidth="120"
+       markerHeight="120"
+       refX="38.612"
+       refY="38.612473"
+       orient="auto"
+       viewBox="0 0 77.224945 77.224945"
+       preserveAspectRatio="xMidYMid"
+       inkscape:stockid="marker397339006048"
+       id="marker397339006048">
+      <circle
+         style="fill:#0000ff;stroke:#000000"
+         id="circle6541"
+         cx="38.612473"
+         cy="38.612473"
+         r="38.612473" />
+    </marker>
+    <marker
+       markerWidth="96"
+       markerHeight="96"
+       refX="38.612"
+       refY="38.612473"
+       orient="auto"
+       viewBox="0 0 77.224945 77.224945"
+       preserveAspectRatio="xMidYMid"
+       inkscape:stockid="marker3973599686702413"
+       id="marker3973599686702413"
+       markerUnits="userSpaceOnUse">
+      <circle
+         style="fill:#000000;stroke:#000000;stroke-opacity:0"
+         id="circle6627"
+         cx="38.612473"
+         cy="38.612473"
+         r="38.612473" />
+    </marker>
+    <marker
+       markerWidth="96"
+       markerHeight="96"
+       refX="38.612"
+       refY="38.612473"
+       orient="auto"
+       viewBox="0 0 77.224945 77.224945"
+       preserveAspectRatio="xMidYMid"
+       inkscape:stockid="marker3973390060488585"
+       id="marker3973390060488585"
+       markerUnits="userSpaceOnUse">
+      <circle
+         style="fill:#0000ff;stroke:#000000;stroke-opacity:0"
+         id="circle6630"
+         cx="38.612473"
+         cy="38.612473"
+         r="38.612473" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:25;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;fill-opacity:1"
+       id="path957"
+       cx="256"
+       cy="256"
+       r="179.5"
+       inkscape:export-filename="launcher_icon_forground_only_logo.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <g
+       id="g2179">
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.936354"
+         id="circle7465"
+         cx="170.19026"
+         cy="305.54233"
+         r="44.411499" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.936354"
+         id="circle7467"
+         cx="341.80972"
+         cy="305.54233"
+         r="44.411499" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.936354"
+         id="circle3971"
+         cx="256"
+         cy="156.91531"
+         r="44.411499" />
+      <path
+         sodipodi:type="star"
+         style="fill:none;stroke:#000000;stroke-width:24.8719;stroke-dasharray:none;stroke-opacity:1"
+         id="path2040"
+         inkscape:flatsided="true"
+         sodipodi:sides="3"
+         sodipodi:cx="-165.76907"
+         sodipodi:cy="231.22884"
+         sodipodi:r1="101.7023"
+         sodipodi:r2="50.851151"
+         sodipodi:arg1="-1.5707963"
+         sodipodi:arg2="-0.52359878"
+         inkscape:rounded="0.29"
+         inkscape:randomized="0"
+         d="m -165.76907,129.52654 c 51.08453,0 113.619038,108.31295 88.076771,152.55345 -25.542261,44.2405 -150.611291,44.2405 -176.153551,-1e-5 -25.54227,-44.2405 36.99225,-152.55345 88.07678,-152.55344 z"
+         inkscape:transform-center-y="-25.55651"
+         transform="matrix(1.0051502,0,0,1.0051502,422.62281,23.5803)"
+         inkscape:transform-center-x="7.9444339e-06" />
+    </g>
+  </g>
+</svg>
